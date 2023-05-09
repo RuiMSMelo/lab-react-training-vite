@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  display: flex;
+  display: wrap;
+}
+
+.div {
+  border: solid 1px black;
+  margin: 10px;
+  padding: 5px;
+}
+
+.driverImg {
+  max-width: 100px;
+  border-radius: 100%;
+}
